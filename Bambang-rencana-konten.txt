@@ -1,0 +1,5 @@
+RENCANA KONTEN BAMBANG
+
+- Javascript
+- Css
+- Git
